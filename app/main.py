@@ -5,8 +5,7 @@ from app.routers.incidents import router as incidents_router
 
 app = FastAPI(
     title="Incident Manager API",
-    version="1.0.0",
-    description="API backend cloud-native pour la gestion d’incidents (CRUD) avec healthcheck, tests et CI/CD."
+    version="1.0.0"
 )
 
 @app.get("/", response_class=HTMLResponse)
