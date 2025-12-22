@@ -14,7 +14,7 @@ L’objectif est de fournir une **API simple mais réaliste** permettant la gest
 - Tests automatisés
 - Containerisation avec Docker
 - Intégration continue via GitHub Actions
-- Déploiement serverless sur **Render**
+- Déploiement sur **Render**
 
 ---
 
