@@ -14,7 +14,7 @@ L’objectif est de fournir une **API simple mais réaliste** permettant la gest
 - Tests automatisés
 - Containerisation avec Docker
 - Intégration continue via GitHub Actions
-- Déploiement serverless sur **Google Cloud Run**
+- Déploiement serverless sur **Render**
 
 ---
 
@@ -37,7 +37,7 @@ L’objectif est de fournir une **API simple mais réaliste** permettant la gest
 | Tests | PyTest |
 | Containerisation | Docker |
 | CI/CD | GitHub Actions |
-| Cloud | Google Cloud Run (serverless) |
+| Cloud | Render |
 
 ---
 
@@ -56,7 +56,7 @@ L’objectif est de fournir une **API simple mais réaliste** permettant la gest
 ## 📌 Points clés DevOps
 
 ✔ Pipeline automatisé  
-✔ Déploiement sans serveur (serverless)  
+✔ Déploiement facilité  
 ✔ Documentation API auto-générée  
 ✔ Bonnes pratiques CI/CD
 
