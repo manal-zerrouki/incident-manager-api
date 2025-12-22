@@ -7,7 +7,8 @@ app = FastAPI(
     title="Incident Manager API",
     version="1.0.0"
 )
-
+# endpoint racine 
+@app.get("/")
 @app.get("/", response_class=HTMLResponse)
 def root():
     return """
